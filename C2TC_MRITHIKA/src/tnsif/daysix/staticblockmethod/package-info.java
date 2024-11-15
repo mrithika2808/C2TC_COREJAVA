@@ -1,0 +1,1 @@
+package tnsif.daysix.staticblockmethod;
